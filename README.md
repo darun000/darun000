@@ -1,5 +1,5 @@
 
 <div align="center">
-  <img src="koi/koi.gif" width="220" alt="My koi" />
+  <img src="koi/koi.gif" width="300" alt="My koi" />
 </div>
 
